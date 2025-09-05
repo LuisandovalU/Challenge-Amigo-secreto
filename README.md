@@ -1,4 +1,4 @@
-# 🎁 Proyecto: Challenge Amigo Secreto 🎁
+# Proyecto: Challenge Amigo Secreto 🎁
 
 ![Estado del Proyecto](https://img.shields.io/badge/STATUS-TERMINADO-green?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/LuisandovalU/Challenge-Amigo-secreto?style=for-the-badge)
